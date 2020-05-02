@@ -1,5 +1,8 @@
 ## Summary
 
+[![View Friction velocity estimate from the Reynolds stress tensor on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/66015-friction-velocity-estimate-from-the-reynolds-stress-tensor)
+[![DOI](https://zenodo.org/badge/260771307.svg)](https://zenodo.org/badge/latestdoi/260771307)
+
 The friction velocity is computed using a Matlab implementation of the method proposed by Klipp [1]. This method has the advantage to avoid the correction of instrument tilt by using the Reynolds stress tensor invariants. In [1], the friction velocity calculated for neutral conditions is found to be in good agreement with the standard method. Larger discrepancies are expected for non-neutral conditions or low wind speeds but produce a dimensionless shear that scales well with the non-dimensional Obukhov length. Type of application: Micrometeorology, surface layer turbulence.
 
 
